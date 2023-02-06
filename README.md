@@ -3,8 +3,11 @@
 
 
 jdbc 및 swing 학습용 프로젝트입니다.
+
 Coding Convention은 정의하지 않았고 
+
 폴더는 view, model(DAO), rec(VO), res(img) 로 구성되어 있습니다.
+
 hagada.DMP 파일은 데이터베이스 백업 파일입니다.
 
 
